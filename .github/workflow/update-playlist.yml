@@ -1,0 +1,91 @@
+name: Update TV Playlist
+
+on:
+  schedule:
+    # Setiap 6 jam
+    - cron: "0 */6 * * *"
+
+  # Bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest playlist
+        shell: bash
+        run: |
+          set -e
+
+          URL="https://drive.usercontent.google.com/download?id=1dYROrrmyy6e2i1JC5MFawuv7HtA06MoI&export=download"
+
+          echo "Downloading playlist..."
+
+          curl \
+            --fail \
+            --location \
+            --retry 5 \
+            --retry-delay 5 \
+            --connect-timeout 30 \
+            --max-time 120 \
+            "$URL" \
+            -o playlist_new.m3u
+
+          echo "Download selesai."
+
+          # Pastikan file tidak kosong
+          if [ ! -s playlist_new.m3u ]; then
+            echo "ERROR: Playlist kosong."
+            exit 1
+          fi
+
+          # Cek apakah playlist terlihat valid
+          if ! grep -q "#EXTM3U" playlist_new.m3u; then
+            echo "ERROR: File tidak terlihat seperti playlist M3U."
+            echo "10 baris pertama:"
+            head -n 10 playlist_new.m3u
+            exit 1
+          fi
+
+          # Ganti playlist utama
+          mv playlist_new.m3u playlist.m3u
+
+          echo "Playlist valid."
+          wc -l playlist.m3u
+
+      - name: Check changes
+        id: changes
+        shell: bash
+        run: |
+          if git diff --quiet -- playlist.m3u; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Playlist tidak berubah."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Playlist berubah."
+          fi
+
+          # Untuk kondisi file playlist.m3u belum pernah ada
+          if [ -n "$(git status --porcelain -- playlist.m3u)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated playlist
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add playlist.m3u
+
+          git commit -m "Update TV playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          git push
