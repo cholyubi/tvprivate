@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 02/OKTOBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -26,10 +26,6 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <================>
 <=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 19:00 WIB Hong Kong vs Brunei Darussalam
-https://live2.dyrur1.com/live/9gklzi1gj36fm7x_369aa296e1ad2b2772571428b6379099_1080p.m3u8?auth_key=1790783886-0-0-32763e00ff617cc1279f04e0dc5c5e42
-
 <================================================>
 <================================================>
 <=================== CADANGAN =============================>
@@ -2739,7 +2735,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/BI7_g", 09:00 WIB 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/BI7_g", 09:00 WIB 20th Asian Games Aichi-Nagoya 2026
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 
@@ -2747,31 +2743,14 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 030/SEPTEMBER/2026" tvg-logo="https://shorter.me/0KD94", 17:30 WIB Uzbekistan U-23 vs Jepang U-23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB Indonesia vs Philippines
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-10-5374579.m3u8?txSecret=9c4ffba6876e16560f4b0eb52b187551&txTime=6ABE4679
 
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 08:00 WIB India vs Pakistan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 08:00 WIB Kazakhstan vs Hongkong
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 11:00 WIB Korea vs Iran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 11:00 WIB Kirgistan vs Taiwan
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Vietnam vs Uzbekistan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Thailand vs China
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+#EXTINF:-1 group-title="EVENT 01/OKTOBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Japan vs Qatar
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-10-5374550.m3u8?txSecret=249f2b39ce3f6418c92f026b40707975&txTime=6ABE4AB1
