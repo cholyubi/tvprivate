@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -26,34 +26,54 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <================>
 <=================== EVENT 1 =============================>
+<================================================>
 
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 18:30 WIB Lion City Sailors vs Cong An Hanoi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Adhyaksa vs Persebaya Surabaya
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5687514_1.m3u8?auth_key=1791634068-0-0-f656776ee7cf9a7a926a21015769335c
 
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Johor Darul Ta'zim vs Svay Rieng
-https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzVKbtKcknE_hd.m3u8?txSecret=357f631087d7823970ff700ade3eaf60&txTime=6AC8D740
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Johor Darul Ta'zim vs Svay Rieng
-https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzVKbtKcknE_hd.m3u8?txSecret=357f631087d7823970ff700ade3eaf60&txTime=6AC8D740
-
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Johor Darul Ta'zim vs Svay Rieng
+#EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Adhyaksa vs Persebaya Surabaya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel24.m3u8
-
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Port FC vs Persib
-https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzZiZdHGb62_hd.m3u8?txSecret=7ee4e12f372b087acb0c4612f9b6930c&txTime=6AC8D740
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Port FC vs Persib
-https://live4.dyrur1.com/live/72597084_563f17a3a77782c2a36c91ed3d7ce12c_1080p.m3u8?auth_key=1791475049-0-0-9915727899e31fdfe179b97244e11c14
-
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/JHxeb", 19:00 WIB Port FC vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8
+https://live2.zundrixmediapipeline.com/live/channel4.m3u8
 
 <================================================>
+
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Málaga vs Espanyol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 01:30 WIB Borussia Dortmund vs Werder Bremen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://shorter.me/87PxH", 01:00 WIB PSV vs Heerenveen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://shorter.me/3gy7g", 01:00 WIB Al Nassr vs Diriyah
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 010/OKTOBER/2026" tvg-logo="https://shorter.me/UXCX0", 02:00 WIB West Ham United vs Queens Park Rangers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 <=================== CADANGAN =============================>
 <================================================>
 <================>
@@ -2731,21 +2751,21 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 14:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340226241918061_AiSD.m3u8?txSecret=1203f95a1a3ace01ac6a74eb7ee54438&txTime=6AC866C0
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 14:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340226367640061_AiSD.m3u8?txSecret=51e5154f5b3d6c04d06cca5409810632&txTime=6AC866C0
-#EXTINF:-1 group-title="EVENT 08/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 14:00 WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340226502239061_AiSD.m3u8?txSecret=4b5faa1445274254655b9729cd1cff4e&txTime=6AC866C0
+#EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 17:00 WIB CLASH OF CLANS Arctic Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340227067444061_AiSD.m3u8?txSecret=1388b45427a94151c46b25fae83673fd&txTime=6AC9B840
+#EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 17:00 WIB CLASH OF CLANS Arctic Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340227268238061_AiSD.m3u8?txSecret=0f745eb7c6d70efc74d2ac66c41f4e87&txTime=6AC9B840
+#EXTINF:-1 group-title="EVENT 09/OKTOBER/2026" tvg-logo="https://shorter.me/dbndV", 17:00 WIB CLASH OF CLANS Arctic Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340227428242061_AiSD.m3u8?txSecret=df8c37cef65f0f8155d7251dd55a419b&txTime=6AC9B840
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dbndV", 17:00 WIB CLASH OF CLANS Arctic Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dbndV", 17:00 WIB CLASH OF CLANS Arctic Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dbndV", 12:00 WIB CLASH OF CLANS Arctic Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
+
 
 <================================================>
 
