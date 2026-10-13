@@ -28,9 +28,10 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <=================== EVENT 1 =============================>
 
 #EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 20:45 WIB Pakhtakor vs Al Quadisiya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al Wasl vs Al-Ahli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2758,15 +2759,7 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 WIB GS Caltex W VS Expressway Co W
-https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/mtuzlqcrry2q9mt3sgi7av1byb78muisakwd/p77ne1un6rknxt0rolrnlkqb78muisafub_hls_playlist.m3u8?hdnts=st=1791799992~exp=1791861202~acl=*/mtuzlqcrry2q9mt3sgi7av1byb78muisakwd/*~hmac=51948743ca81dff9284cd7e9df7c0d4f17ca88a03389f988d1546ece53bc40bd&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
-
-#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/GoGf3", 17:00 WIB GS Caltex W VS Expressway Co W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/GXv3A", 22:00 WIB Ziraat Bankkart vs Galatasaray HDI Sigorta 
+#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/GXv3A", 22:30 WIB Ziraat Bankkart vs Galatasaray HDI Sigorta 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel33.m3u8
