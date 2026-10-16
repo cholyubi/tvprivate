@@ -27,16 +27,19 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Adhyaksa
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614376.m3u8?txSecret=a4692680ab8191181b861e20054ec641&txTime=6AD22701
 
 #EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Adhyaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Bhayangkara
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav4mHmacs3DcN_hd.m3u8?txSecret=b9681b52e904e3aeb7d665a019f6f6e6&txTime=6AD36340
 #EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Bhayangkara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -47,14 +50,10 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
+#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs Bali United (GEOBLOCK)
+https://d302.soft4game.com/o22/stream148/o/stream148/chunks.m3u8?nimblesessionid=142120875&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNiAxMjoxODoxNyBQTSZoYXNoX3ZhbHVlPXhYMTd4dS9Vb05naUtQYno1aEFMbWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://shorter.me/K67vG", 16:00 WIB Sydney FC vs Western Sydney Wanderers
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
 <================================================>
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Deportivo La Coruña vs Levante
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2778,8 +2777,3 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 016/OKTOBER/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB  Hyundai Hillstate W vs GS Caltex W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
