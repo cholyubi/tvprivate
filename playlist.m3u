@@ -26,41 +26,14 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <================>
 <=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Garudayaksa vs Arema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Garudayaksa vs Arema (GEOBLOCK)
-https://d302.soft4game.com/o22/stream473/o/stream473/chunks.m3u8?nimblesessionid=142495351&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiA5OjAwOjMyIEFNJmhhc2hfdmFsdWU9aFpWVC94TWVpZG1qRVp5aXBQRDMrQT09JnZhbGlkbWludXRlcz0xJmlkPTIy
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persita vs Persija
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=5bf6e96bcc874032f2fdaf8179daaa7d&wsABSTime=1792255342
-
+<================================================>
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/K67vG", 13:00 WIB Macarthur vs Perth Glory
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/K67vG", 15:40 WIB Central Coast Mariners vs Newcastle Jets
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-<================================================>
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 18:30 WIB Everton vs Chelsea
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Manchester City vs Ipswich Town
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8
 
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Manchester City vs Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -68,6 +41,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Fulham vs Hull City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8
+
+#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brentford vs Liverpool
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8
 
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brentford vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -81,12 +64,11 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 19:00 WIB Espanyol vs Atlético Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
-https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
-
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 21:15 WIB Villarreal vs Elche
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://193.47.62.55/hls/FUUUQQQQ.m3u8
 
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 23:30 WIB Real Betis vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -182,14 +164,6 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 <================>
-
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/UXCX0", 18:30 WIB Watford vs Charlton Athletic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/UXCX0", 21:00 WIB Norwich City vs Portsmouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2880,16 +2854,9 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 #EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 16:00 WIB VICTOR Denmark Open 2026
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748158861061_AiSD.m3u8?txSecret=74c22684a84b85fe472610b51af726c5&txTime=6AD44440
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 017/OKTOBER/2026" tvg-logo="https://iili.io/Kc6R4Dv.png", 14:30 WIB  Expressway Co W vs vs IBK W
-https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/vwfbw7hehymp50ilubip0hqtr61xfvqrma99/ec1fnu7yqytg6rdmoxprdts61xfvqrm7xi_hls_playlist.m3u8?hdnts=st=1792222263~exp=1792283473~acl=*/vwfbw7hehymp50ilubip0hqtr61xfvqrma99/*~hmac=49889f5506901cdbb1ef2b57cc21a96f087748f99e1e4eca564b5c4c86fc3d8d&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
