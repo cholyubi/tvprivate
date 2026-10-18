@@ -27,10 +27,14 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persebaya Surabaya vs PSS Sleman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Persik Kediri
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav3vfp4yL6Rp6_hd.m3u8?txSecret=1b901510b07b526f697b532a4bf85a14&txTime=6AD60640
+
+#EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Persik Kediri
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614380.m3u8?txSecret=06e1ed36b1e13d6434d9ad3974995a24&txTime=6AD4CCB7
 
 #EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persib vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -40,13 +44,13 @@ https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=da9cd91efa1b3478e
 <================================================>
 
 #EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Leeds United vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+https://www.rtmpcdn.com/live/093b047f-baeb-4780-8762-3bd19e6f953c.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Brighton & Hove Albion vs Crystal Palace
+https://www.rtmpcdn.com/live/97ea7073-c40b-47c1-a82f-3a10d5aabc4f.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB AFC Bournemouth vs Sunderland
+https://www.rtmpcdn.com/live/3f86fb39-5cd8-444e-86b8-92b0a6f8ccd1.m3u8
 
 #EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:30 WIB Nottingham Forest vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2821,9 +2825,11 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 16:00 WIB VICTOR Denmark Open 2026
+#EXTINF:-1 group-title="EVENT 018/OKTOBER/2026" tvg-logo="https://shorter.me/-zy9I", 17:00 WIB VICTOR Denmark Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748385643061_AiSD.m3u8?txSecret=0a8478be4dcc0db269712dbc973e5c6a&txTime=6AD595C0
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 14:00 WIB VICTOR Denmark Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/-zy9I", 17:00 WIB VICTOR Denmark Open 2026
+https://tg080grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8?wsSession=81cb6d62f2f8bd4bd9c5a861-179231891381503&wsIPSercert=135c3041bd8a7bb985faa863360038a0&wsBindIP=2&wsserid=1168235948330673910
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
