@@ -27,15 +27,27 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Bali United vs Garudayaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 Persija vs Arema
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614385.m3u8?txSecret=591a10607a284522a3b0c5b53069bc0e&txTime=6AD8BAEF
+
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 Persija vs Arema
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav3vnQWamaBGn_hd.m3u8?txSecret=c3f67b0fb535ab89f38fedb368bbbe15&txTime=6AD9FAC0
 
 #EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 Persija vs Arema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/lsuYE", 19:00 WIB Tainan City vs Borneo
+https://pull.streamviewk7x.click/livesp/sd-6MxipEpoEH6FaywmoQ_hd.m3u8?txSecret=d2d8ee6e312a081141d5dd1cce2942c6&txTime=6AD9FAC0
+
+#EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/lsuYE", 19:00 WIB Tainan City vs Borneo
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5755118_1.m3u8?auth_key=1792670488-0-0-454891474cd4b3d15959af40a4f2249b
 
 <================================================>
 
@@ -2759,15 +2771,22 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 <=================== Badminton =============================>
 
 #EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350568055370061_AiSD.m3u8?txSecret=8e827bc85e76f0331f9310c8bf1d02e5&txTime=6AD98A40
 #EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350568182292061_AiSD.m3u8?txSecret=04e5ee69ee9f5f1504c55e888a1bb0db&txTime=6AD98A40
 #EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350568314341061_AiHD.m3u8?txSecret=21e5b1931637702f4cf28ee2927f1229&txTime=6AD98A40
 #EXTINF:-1 group-title="EVENT 021/OKTOBER/2026" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4350617837938061_AiSD.m3u8?txSecret=1b7e605baddb60d83c10e6a5ee0e4737&txTime=6AD98A40
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/dOG3r", 15:00 WIB French Open Badminton Championships 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
