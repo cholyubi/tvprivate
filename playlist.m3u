@@ -27,21 +27,14 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 13:15 WIB MotoGP Race: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs PSS Sleman
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614406.m3u8?txSecret=29f6ce82f34b2f507357e8669b1f9e2d&txTime=6AE73C59
 
-#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persib vs Adhyaksa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs PSS Sleman
+https://pull.streamfeedk8z.click/livesp/sd-6MxiKavp62adJPGTN2_hd.m3u8?txSecret=2083d2bdfff3116e20d3a8201b622d08&txTime=6AE87B40
 
 #EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Garudayaksa vs PSS Sleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2833,5 +2826,3 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 01/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 14:00 WIB Hungkuk W vs AI Peppers W
