@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -26,50 +26,56 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <================>
 <=================== EVENT 1 =============================>
+
+#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/VJWW_", 22:30 WIB Rennes vs Olympiakos Piraeus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 00:45 WIB Galatasaray vs Stuttgart
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 00:45 WIB Shakhtar Donetsk vs Sporting CP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Villarreal vs PSG
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Atlético Madrid vs Bayern München
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Barcelona vs Aston Villa
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 00:45 WIB Crystal Palace vs Hoffenheim
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Feyenoord vs Internazionale
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 00:45 WIB AEK Athens vs Real Madrid
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Manchester United vs Roma
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB PSV vs Club Brugge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Sunderland vs Dinamo Zagreb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB RB Leipzig vs Manchester City
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Porto vs Napoli
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 03:00 WIB West Bromwich Albion vs Southampton
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/K2yDg", 03:00 WIB Borussia Dortmund vs Real Betis
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 05/NOVEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 03:00 WIB Bristol City vs Wolverhampton Wanderers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2755,23 +2761,25 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
-https://mobilelive-test.ysp.cctv.cn/ysp/2050856001_hd.m3u8
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
-https://mobilelive-test.ysp.cctv.cn/ysp/2050856101_hd.m3u8
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
-https://mobilelive-test.ysp.cctv.cn/ysp/2050856201_hd.m3u8
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
-https://mobilelive-test.ysp.cctv.cn/ysp/2050856301.m3u8
+#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4363762475764061_AiSD.m3u8?txSecret=eb09a80bb26c640ce9a0afa20ffd9dad&txTime=6AEBAAE0
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4363762873015061_AiSD.m3u8?txSecret=e8e67041094c9099e5921e5345a44e79&txTime=6AEBAAE0
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4363763030569061_AiSD.m3u8?txSecret=4d46a29bf5a80a504648d96dfe4b43c2&txTime=6AEBAAE0
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:40 WIB YEOSU Victor Korea Open 2026
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4363763177578061_AiSD.m3u8?txSecret=5544949b0a256795a42d127e42309734&txTime=6AEBAAE0
+
+
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Kepco vs Woori
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0009/kaohqgo7orykd1y46zuabh6uo6fg4h6s9qkj/xby0oflpf2dqcur3vxs9vyz6fg4h6s9nnd_hls_playlist.m3u8?hdnts=st=1793699194~exp=1793760404~acl=*/kaohqgo7orykd1y46zuabh6uo6fg4h6s9qkj/*~hmac=9643a5295be2224ca3e92f9437f128be93de07b12cd324874bd3a2e899dd1637
+#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Uijeongbu KB Insurance Stars vs Busan OK Savings Bank Okman
+https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0010/zg21tnal7cmvd3ktbos26p88ah34cmajob4e/yuhsaagwgx7fm6uoet5ugish34cmajo5vc_hls_playlist.m3u8?hdnts=st=1793785899~exp=1793847109~acl=*/zg21tnal7cmvd3ktbos26p88ah34cmajob4e/*~hmac=363af0a82176e1a648c362bb622305d3a0b97732053dbe49773ef8e93f8c0ebe
 
-#EXTINF:-1 group-title="EVENT 03/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB IBK W vs Hyundai E&C Hillstate W
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/9fugdutaiylwyioemnie8ninapgh4e7b91zh/tt1gx7bdvt9xirnyejdzzgppgh4e7b8ycr_hls_playlist.m3u8?hdnts=st=1793699151~exp=1793760361~acl=*/9fugdutaiylwyioemnie8ninapgh4e7b91zh/*~hmac=95ef4ca24df2ac44a0f4f807ccb4b96506feacbe1de74e71c404e5c65c6ab98b
+#EXTINF:-1 group-title="EVENT 04/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Heungkuk Pink Spiders (W) vs KGC Daejeon (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0007/hwgezshffgy0dga19erbetqfggwhszub9652/jesw3iccurgtfowccvix4wxgwhszub91jv_hls_playlist.m3u8?hdnts=st=1793785487~exp=1793846697~acl=*/hwgezshffgy0dga19erbetqfggwhszub9652/*~hmac=edbc538e36d5beaf651aa20d07c22e1c5e484f27838fd69a195032fdd3a1bce5
