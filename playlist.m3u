@@ -27,10 +27,11 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
+#EXTVLCOPT:http-origin=https://player.787200.com/
+#EXTVLCOPT:http-referrer=https://player.787200.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.vivo155.com/live/sd-1-4614409.m3u8?txSecret=1a761386eae1a38c043df699585405ab&txTime=6AEDD364
 
 #EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2768,3 +2769,9 @@ https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
+
+#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Incheon Jumbos vs Suwon Vixtorm
+https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0010/e927linhviwradxpkxgorjctyah17alh3v9m/tvnucvanbcjzlzmuqwdgtmhah17alh3rez_hls_playlist.m3u8?hdnts=st=1793958649~exp=1794019859~acl=*/e927linhviwradxpkxgorjctyah17alh3v9m/*~hmac=4d24d81d9cb69515f2df3ac912b8e5b848f12dbd443919b6ee42c6e500cc74ac
+
+#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB IBK Altos (W) vs GS Caltex Seoul KIXX (W)
+https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0009/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/kvxdzxzepjvnbj9gzy4fvteh4tjd7ntp58_hls_playlist.m3u8?hdnts=st=1793958654~exp=1794019864~acl=*/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/*~hmac=34dd222912bf7292951bee5a5a2d85523ff4e59b96d2698faf70c2fb990850cf
