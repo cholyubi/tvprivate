@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 08/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -27,31 +27,50 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
 #EXTVLCOPT:http-origin=https://player.787200.com/
 #EXTVLCOPT:http-referrer=https://player.787200.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614409.m3u8?txSecret=1a761386eae1a38c043df699585405ab&txTime=6AEDD364
+https://live.vivo155.com/live/sd-1-4614412.m3u8?txSecret=15ba06ef8b58d89ce23cf25e0e3384fa&txTime=6AEF24F1
 
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Madura United vs Arema
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persijap vs Garudayaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=858ee680eeb442d3d7a5c946c96a741e&wsABSTime=1794071037
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persija vs Persebaya Surabaya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persita vs Adhyaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=ec80708dd4a2240163ce51c78841db3a&wsABSTime=1794070922
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:35 WIB MotoGP Qualifying: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Everton vs Coventry City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Sevilla vs Deportivo Alavés
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:30 WIB Leeds United vs Tottenham Hotspur
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 02:45 WIB Venezia vs Udinese
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Arsenal vs Hull City
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:00 WIB Fulham vs Newcastle United
+
+#EXTINF:-1 group-title="EVENT 08/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 00:30 WIB Nottingham Forest vs Manchester City
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Málaga vs Racing Santander
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -59,12 +78,60 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Hamburger SV vs Borussia M'gladbach
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Espanyol vs Deportivo La Coruña
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 08/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Osasuna vs Athletic Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 08/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Valencia vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 21:00 WIB Torino vs Lecce
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:45 WIB Toulouse vs Strasbourg
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 21:00 WIB Torino vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 21:30 WIB Mainz 05 vs Bayern München
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 21:30 WIB Borussia Dortmund vs Elversberg
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 08/NOVEMBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", 03:05 WIB PSG vs Troyes
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 19:30 WIB Wrexham vs Wolverhampton Wanderers
+
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 22:00 WIB Birmingham City vs Swansea City
 
 <================================================>
 <=================== CADANGAN =============================>
@@ -2744,24 +2811,20 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764504903061_AiSD.m3u8?txSecret=14bfad1cb03333cd8284baa682a72e45&txTime=6AEE4DE0
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764680895061_AiSD.m3u8?txSecret=a38b2c31f332c65af3c48d21b3f28f5e&txTime=6AEE4DE0
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764924798061_AiSD.m3u8?txSecret=4f67109802687e2af79e7a523a5bd6dc&txTime=6AEE4DE0
+#EXTINF:-1 group-title="EVENT 07/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363765266375061_AiSD.m3u8?txSecret=55e19dca2ea31589d54d4c6aadf9502f&txTime=6AEF9F60
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b89e43d11d35eac48e64cfd7f91e0993&wsABSTime=1793895795
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=b48ccb9c0e7e05bf19ba18f749180c66&wsABSTime=1793895686
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 10:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8ac1c4b6f929dd17&wsABSTime=1793895860
@@ -2769,9 +2832,3 @@ https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Incheon Jumbos vs Suwon Vixtorm
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0010/e927linhviwradxpkxgorjctyah17alh3v9m/tvnucvanbcjzlzmuqwdgtmhah17alh3rez_hls_playlist.m3u8?hdnts=st=1793958649~exp=1794019859~acl=*/e927linhviwradxpkxgorjctyah17alh3v9m/*~hmac=4d24d81d9cb69515f2df3ac912b8e5b848f12dbd443919b6ee42c6e500cc74ac
-
-#EXTINF:-1 group-title="EVENT 06/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB IBK Altos (W) vs GS Caltex Seoul KIXX (W)
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0009/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/kvxdzxzepjvnbj9gzy4fvteh4tjd7ntp58_hls_playlist.m3u8?hdnts=st=1793958654~exp=1794019864~acl=*/1bf4hfvju3nnuwrli4zpaezgph4tjd7ntsy4/*~hmac=34dd222912bf7292951bee5a5a2d85523ff4e59b96d2698faf70c2fb990850cf
