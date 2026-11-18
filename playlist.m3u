@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 019/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -27,31 +27,16 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Wales vs Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/5V7pE", 18:30 WIB Tampines Rovers vs Ratchaburi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Denmark vs Norwegia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Polandia vs Swedia
-#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Hungaria vs Irlandia Utara
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/5V7pE", 19:00 WIB Borneo vs Manila Digger
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://nontonlagi.rctiplus.id/abvia/jualanshopee/manifest720.m3u8?auth_key=1795013100-ae6037d9c1e03df45d619e0d6f7d57f2-0-3e94619ac74e8e8dda51c5b5c38dbcf9
 
 <================================================>
 <================================================>
@@ -2732,14 +2717,14 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374811635885061_AiSD.m3u8?txSecret=55186a0fd7fe65567561e6b2af511380&txTime=6AFD22C0
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374811762139061_AiSD.m3u8?txSecret=dfe12c1270e4c7eebe36b92ee04ee80b&txTime=6AFD22C0
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374811925643061_AiSD.m3u8?txSecret=889939bb0bc83d5ece19d41839fbfc05&txTime=6AFD22C0
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374811925643061_AiSD.m3u8?txSecret=889939bb0bc83d5ece19d41839fbfc05&txTime=6AFD22C0
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374812334637061_AiSD.m3u8?txSecret=2887d1cb5616cae72b2cf59ba2c173cd&txTime=6AFE1FE0
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374814500519061_AiSD.m3u8?txSecret=035a332ce1613a78e5069b2e76dbcf2a&txTime=6AFE1FE0
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374814656003061_AiSD.m3u8?txSecret=7e8f0aae860ff1f53ef3361361c2c5c0&txTime=6AFE1FE0
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374814815581061_AiSD.m3u8?txSecret=c3dce3b8a0bdcd773db49441bdebc3ec&txTime=6AFE1FE0
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 08:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2765,8 +2750,8 @@ https://live1.quickscoreboardz.com/live/channel64.m3u8?wsSecret=431e06395dedb3cb
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Suwon Vixtorm vs Busan OK Savings Bank Okman
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0007/crbsjjolfle0powneqggwfrre3xm5ficcksf/74tg3ipzc8bqjnkzc4yfvhq3xm5ficcgyo_hls_playlist.m3u8?hdnts=st=1794908778~exp=1794969988~acl=*/crbsjjolfle0powneqggwfrre3xm5ficcksf/*~hmac=4b17f24bb61634938d2b3831704bd7a9ca252250e84c038b3f3c7a3fc5b0749b
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Daejeon Bluefangs vs Seoul Woori Card
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0009/vusrlrxhs6ue2zddw9jifd9hje2a15gppt5b/hupiqbqz6uuekoxjbmdu5bue2a15gpppkr_hls_playlist.m3u8?hdnts=st=1794995062~exp=1795056272~acl=*/vusrlrxhs6ue2zddw9jifd9hje2a15gppt5b/*~hmac=33b5523e8a0acde71f0a326dfbf24c1dd06b74dea2c0ba49d2190d57c23b21a3
 
-#EXTINF:-1 group-title="EVENT 017/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB IBK Altos (W) vs KGC Daejeon (W)
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/b7gkvnyjhdm8j8vzqge2cxakoe1h1ltk4uaf/nyogy4wrqk1f48l7dvpabyze1h1ltk4ql8_hls_playlist.m3u8?hdnts=st=1794908702~exp=1794969912~acl=*/b7gkvnyjhdm8j8vzqge2cxakoe1h1ltk4uaf/*~hmac=379349e60587895ca06bc7d2a7b7a1ae915e5b797afc924a5613cfea1ff6d679
+#EXTINF:-1 group-title="EVENT 018/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB SOOP Supers (W) vs Hyundai EC Hillstate (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/ugmrxyuo1xibgmjjmipynhyw6am3soh2xwx9/diyit60wtqdiug8y0xbeyw6am3soh2xruv_hls_playlist.m3u8?hdnts=st=1794995353~exp=1795056563~acl=*/ugmrxyuo1xibgmjjmipynhyw6am3soh2xwx9/*~hmac=1cd7198d4817146a2a2eaecbf27faa69692ef0470cbfd0bc4cbca839d7839842
