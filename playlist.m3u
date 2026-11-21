@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 022/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -26,37 +26,8 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <================>
 <=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persita
-#EXTVLCOPT:http-origin=https://player.787200.com/
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614419.m3u8?txSecret=a695ce7b332c45c3624c3d45731e1823&txTime=6B004D8C
-
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 <================================================>
 <================================================>
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Athletic Club vs Espanyol
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Bayern München vs Köln
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://iili.io/FDOiPI4.jpg", B5 Perancis - Ligue 1
-
 <=================== CADANGAN =============================>
 <================================================>
 <================>
@@ -2734,27 +2705,25 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374817246253061_AiSD.m3u8?txSecret=bdc178d779d7b671162f25584cb639cc&txTime=6B011740
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374817833072061_AiSD.m3u8?txSecret=29763a43250e2007032a790e8c0c2cf3&txTime=6B011740
+#EXTINF:-1 group-title="EVENT 021/NOVEMBER/2026" tvg-logo="https://shorter.me/uwcGB", 09:00 WIB Hong Kong Open Badminton Championships 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4374823823403061_AiSD.m3u8?txSecret=edd0591ffbb12309a6526b049d0d6829&txTime=6B01B1F0
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 09:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9ad777dc808e87228&wsABSTime=1795107106
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 09:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 09:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=d61cb551b32cf149638a1be59eac6c2b&wsABSTime=1794935195
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 10:00 WIB Hong Kong Open Badminton Championships 2026
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/uwcGB", 09:00 WIB Hong Kong Open Badminton Championships 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba844a475960d230c8&wsABSTime=1794935064
@@ -2763,8 +2732,3 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Cheonan Skywalkers vs Suwon Vixtorm
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/gcxcsolgxxtb6jvrhdc0nygjp6twq7bl9noz/gqzdi2kvlkyptxsqo4mjs8v6twq7bl9lj3_hls_playlist.m3u8?hdnts=st=1795168279~exp=1795229489~acl=*/gcxcsolgxxtb6jvrhdc0nygjp6twq7bl9noz/*~hmac=d8f54ebf8b58623182d0851dd7c2876602def18ed8612a1edc0c864076e5d59d
-
-#EXTINF:-1 group-title="EVENT 020/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Korea Expressway (W) vs IBK Altos (W)
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0009/jqesj8sahatt14xgygqxm1skje3zda875vgt/i6sxhr1psda2ub3vvcus2qve3zda875r79_hls_playlist.m3u8?hdnts=st=1795168159~exp=1795229369~acl=*/jqesj8sahatt14xgygqxm1skje3zda875vgt/*~hmac=ed2762991d9f0e257972320930d5fd0c23b0e97d7b0b76d775fa473fb58c61f8
